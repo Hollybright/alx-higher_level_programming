@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+if __name__ = "__main__":
 
 #Value of the variables
 a = 1
