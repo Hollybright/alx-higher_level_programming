@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
     import sys
-    name = len(sys.argv) #arg length
+    name = len(sys.argv) 
+    """ arg length"""
+
     if name == 1:
         print("{} arguments.".format(name - 1))
     elif name == 2:
