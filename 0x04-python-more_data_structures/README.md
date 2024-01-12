@@ -1,2 +1,1 @@
-Readme file for ALX Python - More Data Structures: Set, Dictionary project
-Handle by Bright Robinson
+Readme file for ALX python more data structures project Handle by Bright Robinson
