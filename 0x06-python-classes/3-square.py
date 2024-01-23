@@ -1,4 +1,4 @@
-/bin/python3
+#!/usr/bin/python3
 """Define a class called Square"""
 
 
@@ -18,5 +18,5 @@ class Square:
         self.__size = size
 
     def area(self):
-        """Returns the current square area."""
+        """Returns the current square."""
         return self.__size ** 2
